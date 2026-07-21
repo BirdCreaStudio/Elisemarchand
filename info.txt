@@ -1,0 +1,515 @@
+=========================================================
+  ÉLISE MARCHAND — COACH BUSINESS POUR INDÉPENDANTS
+  Fichier de production des images
+  Toutes les images sont au format .png
+=========================================================
+
+Ce fichier recense les 20 images intégrées dans index.html,
+dans leur ordre d'apparition. Pour chaque image, une fiche
+complète permet à un designer ou une IA de la produire sans
+ambiguïté.
+
+=========================================================
+FICHES IMAGES — par ordre d'apparition dans le HTML
+=========================================================
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo.png
+EMPLACEMENT       : Header (navigation fixe)
+UTILITÉ           : Logotype principal du cabinet de coaching,
+                    visible en permanence en haut de page.
+FORMAT            : Horizontal, logotype texte + symbole optionnel
+DIMENSIONS        : 360 × 84 px (rendu @2x pour écrans Retina)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Fond transparent obligatoire. Couleurs : texte
+                    vert foncé #0B5E38 ou blanc selon la version.
+                    Deux variantes à produire : logo.png (fond clair)
+                    et logo-footer.png (version blanche sur fond vert).
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : hero-banner.png
+EMPLACEMENT       : Section Hero (image de fond pleine hauteur)
+UTILITÉ           : Première image visible au chargement. Elle installe
+                    l'univers en moins d'une seconde : dynamisme,
+                    professionnalisme, chaleur humaine.
+FORMAT            : Paysage, ratio 16:9 (ou 3:2)
+DIMENSIONS        : 1440 × 860 px minimum
+EXTENSION         : .png
+PROMPT IA         :
+  "Photographie premium d'une femme de 38-45 ans, professionnelle
+  confiante, en session de coaching vidéo sur son ordinateur portable,
+  espace de travail moderne et épuré, lumière naturelle abondante
+  depuis une grande fenêtre sur la droite, couleurs chaudes mais
+  élégantes (vert végétal en arrière-plan, bois clair, textiles beige),
+  expression engagée et bienveillante, angle légèrement en plongée,
+  composition aérée avec espace vide sur la gauche pour y superposer
+  du texte blanc, style éditorial magazine d'affaires, bokeh doux,
+  qualité photographique haute résolution, grain argentique subtil,
+  sans texte, sans logo."
+NOTES             : L'image est couverte par un overlay dégradé vert
+                    foncé (gauche 93% opacité → droite 55%). La partie
+                    gauche sera quasi entièrement masquée. Optimiser
+                    la composition côté droit (sujet principal à droite).
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-media-01.png
+EMPLACEMENT       : Barre médias (sous le Hero)
+UTILITÉ           : Logo fictif du média "Forbes France", renforçant
+                    la crédibilité immédiate par association de marque.
+FORMAT            : Horizontal, logotype
+DIMENSIONS        : 240 × 64 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Logo fictif typographique sobre. Sera affiché
+                    en niveaux de gris, opacité 40%, via CSS.
+                    Police sans-serif condensée, ton institutionnel.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-media-02.png
+EMPLACEMENT       : Barre médias
+UTILITÉ           : Logo fictif "Maddyness"
+FORMAT            : Horizontal, logotype
+DIMENSIONS        : 240 × 64 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Style startup/tech. Même traitement CSS que 01.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-media-03.png
+EMPLACEMENT       : Barre médias
+UTILITÉ           : Logo fictif "Siècle Digital"
+FORMAT            : Horizontal, logotype
+DIMENSIONS        : 240 × 64 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Style digital/médias. Même traitement CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-media-04.png
+EMPLACEMENT       : Barre médias
+UTILITÉ           : Logo fictif "Le Journal du Freelance"
+FORMAT            : Horizontal, logotype
+DIMENSIONS        : 240 × 64 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Style éditorial / presse. Même traitement CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-revenu.png
+EMPLACEMENT       : Section Problèmes — carte "Revenus imprévisibles"
+UTILITÉ           : Icône illustrant l'instabilité financière.
+FORMAT            : Carré
+DIMENSIONS        : 96 × 96 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style ligne (line icon), représentant un graphique
+  de revenus instable avec des hauts et des bas prononcés, trait propre
+  épaisseur 2px, couleur rouge #C8372D sur fond transparent, style
+  moderne et épuré, sans ombre, sans dégradé."
+NOTES             : Style linéaire cohérent avec les 4 autres icônes
+                    de la section Problèmes. Même grille visuelle.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-clients.png
+EMPLACEMENT       : Section Problèmes — carte "Clients rares et mal payeurs"
+UTILITÉ           : Icône illustrant la difficulté d'acquisition client.
+FORMAT            : Carré
+DIMENSIONS        : 96 × 96 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style ligne (line icon), représentant une loupe
+  cherchant des personnes ou une silhouette de client avec un point
+  d'interrogation, trait propre épaisseur 2px, couleur rouge #C8372D
+  sur fond transparent, style moderne, sans ombre, sans dégradé."
+NOTES             : Même style que icone-revenu.png.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-visibilite.png
+EMPLACEMENT       : Section Problèmes — carte "Invisible malgré votre expertise"
+UTILITÉ           : Icône illustrant le manque de visibilité.
+FORMAT            : Carré
+DIMENSIONS        : 96 × 96 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style ligne, représentant un oeil barré ou une
+  ampoule éteinte, suggérant l'invisibilité ou l'absence de signal,
+  trait propre épaisseur 2px, couleur rouge #C8372D fond transparent,
+  style moderne, sans ombre, sans dégradé."
+NOTES             : Même style que les icônes précédentes.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-structure.png
+EMPLACEMENT       : Section Problèmes — carte "Tout repose sur vous"
+UTILITÉ           : Icône illustrant l'absence de structure et de process.
+FORMAT            : Carré
+DIMENSIONS        : 96 × 96 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style ligne, représentant un organigramme incomplet
+  ou des blocs désorganisés, trait épaisseur 2px, couleur rouge #C8372D
+  fond transparent, style moderne épuré, sans ombre, sans dégradé."
+NOTES             : Même style.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-stagnation.png
+EMPLACEMENT       : Section Problèmes — carte "Le sentiment de stagner"
+UTILITÉ           : Icône illustrant la stagnation et le plafond de verre.
+FORMAT            : Carré
+DIMENSIONS        : 96 × 96 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style ligne, représentant une flèche qui plafonne
+  ou une courbe de croissance qui s'aplatit, trait épaisseur 2px,
+  couleur rouge #C8372D fond transparent, style moderne, sans ombre."
+NOTES             : Même style. Les 5 icônes Problèmes forment un set
+                    visuel cohérent.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-audit.png
+EMPLACEMENT       : Section Offres — carte "Audit stratégique"
+UTILITÉ           : Icône représentant l'analyse et le diagnostic.
+FORMAT            : Carré
+DIMENSIONS        : 104 × 104 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style filled/outlined mixte, représentant une
+  loupe sur un document ou un tableau de bord analytique, couleur
+  vert émeraude #0B5E38, fond transparent, style professionnel
+  moderne, légèrement plus épais que les icônes problèmes (poids
+  visuel plus fort), sans ombre."
+NOTES             : Ces icônes Offres sont plus grandes et plus
+                    présentes visuellement que les icônes Problèmes.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-coaching-individuel.png
+EMPLACEMENT       : Section Offres — carte "Coaching individuel" (vedette)
+UTILITÉ           : Icône représentant l'accompagnement personnalisé.
+FORMAT            : Carré
+DIMENSIONS        : 104 × 104 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style filled/outlined, deux silhouettes en face
+  à face (coach et coaché), ou une main tendue avec une étoile,
+  couleur blanc #FFFFFF sur fond transparent (sera affichée sur
+  fond vert foncé), style premium, poids visuel fort, sans ombre."
+NOTES             : Sera affichée sur la carte vedette à fond vert
+                    foncé — utiliser la version blanche.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-groupe.png
+EMPLACEMENT       : Section Offres — carte "Programme collectif"
+UTILITÉ           : Icône représentant le travail en groupe.
+FORMAT            : Carré
+DIMENSIONS        : 104 × 104 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste style filled/outlined, groupe de 3 à 4 silhouettes
+  ou cercle de personnes, couleur vert émeraude #0B5E38 fond transparent,
+  style premium cohérent avec icone-audit.png, sans ombre."
+NOTES             : Même style que icone-audit.png.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : avatar-01.png
+EMPLACEMENT       : Section Témoignages — témoignage de Mathieu R.
+UTILITÉ           : Photo de profil fictive renforçant la crédibilité
+                    du témoignage par humanisation.
+FORMAT            : Carré (sera affiché en cercle via CSS)
+DIMENSIONS        : 120 × 120 px (@2x)
+EXTENSION         : .png
+PROMPT IA         :
+  "Portrait carré d'un homme de 32-38 ans, sourire naturel et détendu,
+  développeur ou professionnel tech, tenue décontractée (pull ou chemise
+  ouverte), fond légèrement flouté neutre (gris clair ou blanc cassé),
+  éclairage naturel de face, style photo LinkedIn premium, expression
+  positive et authentique, pas trop posé, qualité photographique,
+  cadrage buste serré."
+NOTES             : L'image sera rognée en cercle via border-radius: 50%.
+                    Prévoir un cadrage centré sur le visage.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : avatar-02.png
+EMPLACEMENT       : Section Témoignages — témoignage de Lucie T.
+UTILITÉ           : Photo de profil fictive, femme.
+FORMAT            : Carré
+DIMENSIONS        : 120 × 120 px (@2x)
+EXTENSION         : .png
+PROMPT IA         :
+  "Portrait carré d'une femme de 28-35 ans, expression enthousiaste
+  et confiante, professionnelle du marketing ou de la communication,
+  tenue soignée (chemisier ou veste légère), fond flouté bureau ou
+  végétation verte, éclairage naturel chaud latéral, style photo
+  LinkedIn premium, cadrage buste serré, qualité photographique."
+NOTES             : Même traitement CSS que avatar-01.png.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : avatar-03.png
+EMPLACEMENT       : Section Témoignages — témoignage de Karim B.
+UTILITÉ           : Photo de profil fictive, homme.
+FORMAT            : Carré
+DIMENSIONS        : 120 × 120 px (@2x)
+EXTENSION         : .png
+PROMPT IA         :
+  "Portrait carré d'un homme de 35-42 ans, photographe ou créatif
+  indépendant, look décontracté professionnel (t-shirt ou chemise),
+  fond flouté neutre ou légèrement coloré, expression calme et
+  assurée, éclairage naturel, style photo de profil professionnel
+  décontracté, cadrage buste serré, qualité photographique."
+NOTES             : Même traitement CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : portrait.png
+EMPLACEMENT       : Section À propos (image principale)
+UTILITÉ           : Photo principale d'Élise Marchand. Image la plus
+                    humanisante du site. Elle doit inspirer confiance,
+                    expertise et chaleur simultanément.
+FORMAT            : Portrait, ratio 4:5
+DIMENSIONS        : 1000 × 1240 px
+EXTENSION         : .png
+PROMPT IA         :
+  "Portrait professionnel premium d'une femme de 38-45 ans, coach
+  business ou consultante senior, sourire naturel et confiant (pas
+  forcé), tenue élégante mais accessible (blazer vert ou tenue sobre
+  de couleur terreuse sur fond clair), environnement de travail visible
+  en arrière-plan flou (bibliothèque, plantes vertes, bureau en bois),
+  lumière naturelle directionnelle depuis une fenêtre hors-champ à
+  gauche, style éditorial magazine business haut de gamme, profondeur
+  de champ marquée, grain argentique très subtil, cadrage buste ou
+  3/4, expression engagée et bienveillante, qualité photographique
+  haute résolution, sans texte, sans accessoire superflu."
+NOTES             : Image la plus importante après le hero. Optimiser
+                    la composition côté gauche (la photo detail viendra
+                    se superposer en bas à droite en CSS).
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : portrait-detail.png
+EMPLACEMENT       : Section À propos (image secondaire superposée)
+UTILITÉ           : Photo secondaire montrant Élise en situation de
+                    coaching. Elle prouve l'activité réelle par le
+                    contexte de travail visible.
+FORMAT            : Paysage, ratio 6:5
+DIMENSIONS        : 520 × 440 px
+EXTENSION         : .png
+PROMPT IA         :
+  "Photographie lifestyle d'une femme coach en session de travail avec
+  un client (visible de dos ou hors-champ), ordinateur portable ouvert,
+  notes manuscrites sur la table, tasse de café, lumière naturelle
+  chaleureuse, cadrage serré sur les mains et le bureau, ambiance
+  de travail concentré et positif, style documentaire éditorial,
+  couleurs chaudes (bois, vert, beige), sans texte visible."
+NOTES             : Affichée en petite vignette superposée (220×180px
+                    en CSS) dans le coin bas-droit de portrait.png.
+                    Border ivoire de 4px appliqué en CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : guide-cover.png
+EMPLACEMENT       : Section Ressource gratuite
+UTILITÉ           : Couverture du guide PDF offert. Elle doit donner
+                    envie de télécharger et renforcer la valeur
+                    perçue de la ressource gratuite.
+FORMAT            : Portrait, ratio 3:4
+DIMENSIONS        : 720 × 960 px
+EXTENSION         : .png
+PROMPT IA         :
+  "Maquette 3D réaliste d'un guide PDF premium ou d'un livret broché,
+  couverture vert émeraude foncé avec titre blanc 'Les 5 leviers pour
+  doubler votre CA en freelance', sous-titre plus petit en vert clair,
+  logo fictif en bas, présentation en léger angle 3/4 (perspective
+  isométrique douce), ombre portée douce sur fond blanc cassé,
+  style product mockup haut de gamme, qualité photographique render,
+  ambiance professionnelle et sérieuse."
+NOTES             : Si une IA de génération ne produit pas de bon
+                    résultat, utiliser un outil de mockup PDF comme
+                    MockupWorld ou Canva (template livre).
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : cta-visuel.png
+EMPLACEMENT       : Section CTA Final
+UTILITÉ           : Image illustrant la transformation promise.
+                    Doit projeter le visiteur dans la réalité de son
+                    succès possible — sérénité, autonomie, réussite.
+FORMAT            : Carré ou portrait léger
+DIMENSIONS        : 1040 × 960 px
+EXTENSION         : .png
+PROMPT IA         :
+  "Photographie lifestyle premium d'une personne indépendante (femme
+  ou homme de 30-45 ans) travaillant sereinement depuis un espace
+  personnel et lumineux — home office élégant, terrasse ensoleillée
+  ou café design — ordinateur portable ouvert, posture détendue et
+  concentrée, expression de satisfaction tranquille, lumière naturelle
+  abondante, couleurs douces (vert végétal, beige, blanc), style
+  éditorial magazine de mode de vie professionnel, qualité
+  photographique, sans texte, profondeur de champ."
+NOTES             : Sera affichée à gauche sur fond vert foncé.
+                    Légère opacité (0.9) appliquée en CSS. Privilégier
+                    les tons chauds pour contraster avec le fond vert.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : icone-garantie.png
+EMPLACEMENT       : Section Formulaire de contact — bloc garantie
+UTILITÉ           : Icône renforçant la réassurance et l'aspect
+                    sans-risque de la séance découverte gratuite.
+FORMAT            : Carré
+DIMENSIONS        : 88 × 88 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         :
+  "Icône minimaliste représentant un bouclier avec une coche ou une
+  étoile à l'intérieur, symbolisant la garantie et la confiance,
+  couleur vert émeraude #0B5E38 fond transparent, style filled moderne
+  et solide, sans ombre, sans dégradé."
+NOTES             : Affichée à 44×44px en CSS. Doit être lisible
+                    à petite taille.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-client-01.png
+EMPLACEMENT       : Section Témoignages — grille logos clients
+UTILITÉ           : Logo fictif "Studio Pelerin"
+FORMAT            : Horizontal
+DIMENSIONS        : 240 × 72 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Logo fictif typographique. Sera affiché en blanc
+                    très transparent (filter grayscale + brightness 2,
+                    opacité 35%) sur fond vert foncé. Produire en blanc.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-client-02.png
+EMPLACEMENT       : Section Témoignages — grille logos clients
+UTILITÉ           : Logo fictif "Agence Vertigo"
+FORMAT            : Horizontal
+DIMENSIONS        : 240 × 72 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Même traitement CSS que logo-client-01.png.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-client-03.png
+EMPLACEMENT       : Section Témoignages — grille logos clients
+UTILITÉ           : Logo fictif "Collectif Novacom"
+FORMAT            : Horizontal
+DIMENSIONS        : 240 × 72 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Même traitement CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-client-04.png
+EMPLACEMENT       : Section Témoignages — grille logos clients
+UTILITÉ           : Logo fictif "Maison Édition Libre"
+FORMAT            : Horizontal
+DIMENSIONS        : 240 × 72 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Même traitement CSS.
+─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
+NOM DU FICHIER    : logo-footer.png
+EMPLACEMENT       : Footer
+UTILITÉ           : Version blanche du logo pour fond sombre.
+FORMAT            : Horizontal
+DIMENSIONS        : 320 × 76 px (@2x)
+EXTENSION         : .png (fond transparent)
+PROMPT IA         : —
+NOTES             : Identique à logo.png mais en blanc pur.
+                    Affiché à 160×38px en CSS.
+─────────────────────────────────────────────────────────
+
+
+=========================================================
+ARBORESCENCE COMPLÈTE DU PROJET
+=========================================================
+
+/
+├── index.html
+├── style.css
+└── assets/
+    └── images/
+        ├── logo.png                     ← Header
+        ├── logo-footer.png              ← Footer
+        ├── hero-banner.png              ← Hero (fond pleine hauteur)
+        ├── logo-media-01.png            ← Barre médias (Forbes France)
+        ├── logo-media-02.png            ← Barre médias (Maddyness)
+        ├── logo-media-03.png            ← Barre médias (Siècle Digital)
+        ├── logo-media-04.png            ← Barre médias (Journal Freelance)
+        ├── icone-revenu.png             ← Problèmes — revenus
+        ├── icone-clients.png            ← Problèmes — clients
+        ├── icone-visibilite.png         ← Problèmes — visibilité
+        ├── icone-structure.png          ← Problèmes — structure
+        ├── icone-stagnation.png         ← Problèmes — stagnation
+        ├── icone-audit.png              ← Offres — audit
+        ├── icone-coaching-individuel.png ← Offres — coaching (vedette)
+        ├── icone-groupe.png             ← Offres — programme collectif
+        ├── avatar-01.png               ← Témoignages — Mathieu R.
+        ├── avatar-02.png               ← Témoignages — Lucie T.
+        ├── avatar-03.png               ← Témoignages — Karim B.
+        ├── logo-client-01.png          ← Témoignages — Studio Pelerin
+        ├── logo-client-02.png          ← Témoignages — Agence Vertigo
+        ├── logo-client-03.png          ← Témoignages — Collectif Novacom
+        ├── logo-client-04.png          ← Témoignages — Maison Édition Libre
+        ├── portrait.png                ← À propos (portrait principal)
+        ├── portrait-detail.png         ← À propos (photo secondaire)
+        ├── guide-cover.png             ← Ressource gratuite
+        ├── cta-visuel.png              ← CTA Final
+        └── icone-garantie.png          ← Formulaire de contact
+
+Total : 27 fichiers images, tous en .png
+
+=========================================================
+NOTES DE PRODUCTION GÉNÉRALES
+=========================================================
+
+Résolution et poids :
+  – Toutes les photos : exporter en PNG optimisé (TinyPNG ou Squoosh).
+  – Poids cible : < 150 Ko pour les avatars et icônes,
+    < 350 Ko pour les photos de section (portrait, apropos),
+    < 600 Ko pour le hero-banner.png.
+  – Prévoir des versions @2x pour les écrans Retina.
+
+Cohérence visuelle :
+  – Les photos de personnes (hero, portrait, avatars) doivent partager
+    une direction lumineuse cohérente : lumière naturelle chaude,
+    légèrement latérale.
+  – Les icônes Problèmes forment un set uniforme : même trait, même poids,
+    même couleur rouge #C8372D.
+  – Les icônes Offres forment un second set : même trait mais plus épais,
+    couleur vert #0B5E38 (sauf icone-coaching-individuel.png en blanc).
+
+Personnalisation :
+  – Nom : remplacer "Élise Marchand" dans index.html et les métadonnées.
+  – Couleurs : modifier --vert, --rouge, --ivoire dans :root{} de style.css.
+  – Polices : remplacer l'import Google Fonts dans le <head> et mettre
+    à jour --font-titre / --font-corps dans :root{}.
+
+Ouvrir en local :
+  – Placer index.html, style.css et le dossier assets/ dans le même
+    répertoire, puis ouvrir index.html dans un navigateur.
+  – Ou lancer : python3 -m http.server 8000
+    puis ouvrir http://localhost:8000
+
+=========================================================
